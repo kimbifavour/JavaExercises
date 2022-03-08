@@ -6,10 +6,10 @@ public class Main {
 
     public static void main(String[] args)
     {
-      //  inputAllBaseTypes(); //R-1.1 A method that inputs a different value for each baseType and verifies said baseType
-      //  gameEntry(); //R-1.2
-      //  isMultiple(); //R-1.3 returns true if one long value, n is a multiple of the other, m
-      //  isEven(); //R-1.4 a method that returns 'true' if value i is an even number without using  %, / or *
+        inputAllBaseTypes(); //R-1.1 A method that inputs a different value for each baseType and verifies said baseType
+        gameEntry(); //R-1.2
+        isMultiple(); //R-1.3 returns true if one long value, n is a multiple of the other, m
+        isEven(); //R-1.4 a method that returns 'true' if value i is an even number without using  %, / or *
     }
 
     public static void inputAllBaseTypes()
